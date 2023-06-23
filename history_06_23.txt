@@ -1,0 +1,13 @@
+[ec2-user@ip-172-31-33-20 ~]$ cd /opt/090523_morning/Viktor/
+
+[ec2-user@ip-172-31-33-20 Viktor]$ ls /opt/090523_morning/Viktor/
+
+myfirstbashscript.sh  script.sh  test
+
+У вас есть новая почта в /var/spool/mail/ec2-user
+
+[ec2-user@ip-172-31-33-20 Viktor]$ ./myfirstbashscript.sh 
+
+Дата: Пт июн 23 10:36:53 UTC 2023
+Привет, ec2-user!
+Текущая директория: /opt/090523_morning/Viktor
